@@ -94,7 +94,6 @@ print(f"\nPredicted Placement Status: {'Placed' if placement_pred[0]==1 else 'No
 print(f"Probability of Placement: {placement_prob[0][1]:.2f}")
 ```
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
 
 
 
