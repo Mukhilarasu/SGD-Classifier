@@ -94,7 +94,7 @@ print(f"\nPredicted Placement Status: {'Placed' if placement_pred[0]==1 else 'No
 print(f"Probability of Placement: {placement_prob[0][1]:.2f}")
 ```
 ## Output:
-
+<img width="1817" height="604" alt="image" src="https://github.com/user-attachments/assets/c4ae0292-d5b2-4582-8ead-3a4ab99a81e3" />
 
 
 ## Result:
